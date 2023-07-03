@@ -4,7 +4,8 @@ permalink: "/Home/"
 layout: page
 ---
 
-I am a Ph.D. Candidate in Operations Management at the School of Management of University College London, supervised by Rouba Ibrahim and Dongyuan Zhan. 
+## About Me
+I am a Ph.D. Candidate in Operations Management at the School of Management of University College London (UK), supervised by Rouba Ibrahim and Dongyuan Zhan. 
 
 Here is my C.V.
 
@@ -16,8 +17,6 @@ I conduct research in the area of *Behavioral Operations Management*. I study ho
 ## Contact Information
 
 arturo.rodriguez.18@ucl.ac.uk
-
-School of Management at University College London (UK).
 
 www.linkedin.com/in/arturo-estrada-rodriguez
 
