@@ -23,9 +23,10 @@ layout: page
 
 ## Conference Publications
 
-1. Rodriguez, A. E., Romero, D., Pinto, R., Pezzotta, G., Lagorio, A., & Rondini, A. (2017). A cost-engineering method for product-service systems based on stochastic process modelling: Bergamo's bike-sharing PSS. Procedia CIRP, 64, 417-422.
+1. Rodriguez, A. E., & Romero, D. (2016). Towards a cost engineering method for product-service systems based on a system cost uncertainty analysis. Procedia CIRP, 47, 84-89.
+   
+2. Rodriguez, A. E., Romero, D., Pinto, R., Pezzotta, G., Lagorio, A., & Rondini, A. (2017). A cost-engineering method for product-service systems based on stochastic process modelling: Bergamo's bike-sharing PSS. Procedia CIRP, 64, 417-422.
 
-2. Rodriguez, A. E., & Romero, D. (2016). A system quality attributes ontology for product-service systems functional measurement based on a holistic approach. Procedia CIRP, 47, 78-83.
+3. Rodriguez, A. E., & Romero, D. (2016). A system quality attributes ontology for product-service systems functional measurement based on a holistic approach. Procedia CIRP, 47, 78-83.
 
-3. Rodriguez, A. E., & Romero, D. (2016). Towards a cost engineering method for product-service systems based on a system cost uncertainty analysis. Procedia CIRP, 47, 84-89.
 
