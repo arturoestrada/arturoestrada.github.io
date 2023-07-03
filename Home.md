@@ -6,7 +6,7 @@ layout: page
 
 <center><img src="https://github.com/arturoestrada/arturoestrada.github.io/blob/master/passport.jpg" width="200"></center>
 
-I am a Ph.D. Candidate in Operations Management at the School of Management, University College London (UK), supervised by [Rouba Ibrahim](http://www.roubaibrahim.com/)](https://www.mgmt.ucl.ac.uk/people/roubaibrahim) and [Dongyuan Zhan](https://www.mgmt.ucl.ac.uk/people/dongyuanzhan). 
+I am a Ph.D. Candidate in Operations Management at the School of Management, University College London (UK), supervised by [Rouba Ibrahim](https://www.mgmt.ucl.ac.uk/people/roubaibrahim) and [Dongyuan Zhan](https://www.mgmt.ucl.ac.uk/people/dongyuanzhan). 
 
 Here is my <a href="arturoestrada.github.io/CV Arturo Estrada.pdf" target="_blank">C.V.</a>
 
