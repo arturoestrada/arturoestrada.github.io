@@ -4,7 +4,7 @@ permalink: "/Aboutme/"
 layout: page
 ---
 
-<img src="https://github.com/arturoestrada/arturoestrada.github.io/blob/master/passport.jpg" width="100">
+<center><img src="https://github.com/arturoestrada/arturoestrada.github.io/blob/master/passport.jpg" width="200"></center>
 
 I am a Ph.D. Candidate in Operations Management at the School of Management, University College London (UK), supervised by Rouba Ibrahim and Dongyuan Zhan. 
 
