@@ -7,7 +7,7 @@ layout: page
 ## About Me
 I am a Ph.D. Candidate in Operations Management at the School of Management, University College London (UK), supervised by Rouba Ibrahim and Dongyuan Zhan. 
 
-Here is my C.V. <a href="arturoestrada.github.io/CV Arturo Estrada.pdf" target="_blank">PDF.</a>
+Here is my <a href="arturoestrada.github.io/CV Arturo Estrada.pdf" target="_blank">C.V.</a>
 
 ## Research Interests
 
