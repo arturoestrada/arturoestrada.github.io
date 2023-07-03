@@ -1,11 +1,11 @@
 ---
 title: ""
-permalink: "/Home/"
+permalink: "/Aboutme/"
 layout: page
 ---
 
 ## About Me
-I am a Ph.D. Candidate in Operations Management at the School of Management of University College London (UK), supervised by Rouba Ibrahim and Dongyuan Zhan. 
+I am a Ph.D. Candidate in Operations Management at the School of Management, University College London (UK), supervised by Rouba Ibrahim and Dongyuan Zhan. 
 
 Here is my C.V.
 
