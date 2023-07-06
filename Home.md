@@ -4,7 +4,7 @@ permalink: "/Aboutme/"
 layout: page
 ---
 
-<center><img src="PhotoFrame.png" width="200"></center>
+<center><img src="PhotoFrame.png" width=200></center>
 
 I am a Ph.D. Candidate in Operations Management at the [School of Management](https://www.mgmt.ucl.ac.uk/), [University College London](https://www.ucl.ac.uk/), supervised by [Rouba Ibrahim](https://www.mgmt.ucl.ac.uk/people/roubaibrahim) and [Dongyuan Zhan](https://www.mgmt.ucl.ac.uk/people/dongyuanzhan). 
 
