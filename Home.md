@@ -12,7 +12,7 @@ Here is my [C.V.](https://arturoestrada.github.io/CVArturoEstrada.pdf)
 
 ## Research Interests
 
-I conduct research in the area of *Behavioral Operations Management*. I study how persuasion, deception, and lying behavior from both managers and customers impact the performance of service systems. I employ game-theoretic models and design lab experiments to analyze decision-making and human behavior data. My research derives insights and nuanced strategies to design and implement optimal operational policies that account for deceptive behavioral tendencies.
+I conduct research in the area of *Behavioral Operations Management*. I study how persuasion, deception, and lying behavior from both managers and customers impact the performance of service systems. I employ game-theoretic models and design lab experiments to analyze decision-making and human behavior data. My research derives insights and nuanced strategies to design and implement optimal operational policies in response to deceptive behavioral tendencies.
 
 
 ## Contact Information
