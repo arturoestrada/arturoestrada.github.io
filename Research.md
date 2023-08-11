@@ -14,6 +14,9 @@ layout: page
 
 2. Rodriguez, A. E., Ibrahim, R. and  Kremer, M. Persuasion in Queues: An Experimental Study on the Effectiveness of Delay Announcements for Congestion Management. Working paper.
 
+3. Rodriguez, A. E., Ibrahim, R. and Kremer, M. Strategic Human-Algorithm Communication in Service Operations. Working project.
+
+4. Rodriguez, A. E. Customer Lying Behaviour in Observable Queues: The Role of Reputation and Image Concerns. Working project.
 
 ## Journal Publications
 
