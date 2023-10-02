@@ -12,7 +12,7 @@ layout: page
    * Second place, 2021 Behavioral Operations Management Best Working paper.
    * Finalist, 2021 Service Science IBM Best Student Paper.
 
-2. Rodriguez, A. E., Ibrahim, R. and  Kremer, M. Persuasion in Queues: An Experimental Study on the Effectiveness of Delay Announcements for Congestion Management. Working paper. [PDF](https://arturoestrada.github.io/AdditionalPaper1ArturoEstradaRodriguez.pdf) 
+2. Rodriguez, A. E., Ibrahim, R. and  Kremer, M. Communication, Commitment, and Persuasion in Service Operations: Theory and Experiment. Working paper. [PDF](https://arturoestrada.github.io/AdditionalPaper1ArturoEstradaRodriguez.pdf) 
 
 3. Rodriguez, A. E., Ibrahim, R. and Kremer, M. Strategic Human-Algorithm Communication in Service Operations. Working project.
 
