@@ -22,7 +22,7 @@ layout: page
 
 1. Rodriguez, A. E., Pezzotta, G., Pinto, R., & Romero, D. (2020). A comprehensive description of the Product-Service Systems’ cost estimation process: An integrative review. International Journal of Production Economics, 221, 107481. [PDF](https://arturoestrada.github.io/AdditionalPaper2ArturoEstradaRodriguez.pdf) 
 
-2. Rodriguez, A. E., Pezzotta, G., Pinto, R., & Romero, D. (2022). A framework for cost estimation in product-service systems: A systems thinking approach. CIRP Journal of Manufacturing Science and Technology, 38, 748-759.
+2. Rodriguez, A. E., Pezzotta, G., Pinto, R., & Romero, D. (2022). A framework for cost estimation in product-service systems: A systems thinking approach. CIRP Journal of Manufacturing Science and Technology, 38, 748-759. [PDF](https://arturoestrada.github.io/AdditionalPaper3ArturoEstradaRodriguez.pdf) 
 
    
 ## Other Publications (Conference papers)
