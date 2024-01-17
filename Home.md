@@ -4,11 +4,11 @@ permalink: "/Aboutme/"
 layout: page
 ---
 
-<center><img src="https://arturoestrada.github.io/PhotoFrame.png" width=200></center>
+<center><img src="https://arturoestrada.github.io/Reduced.png" width=200></center>
 
 I am a Ph.D. Candidate in Operations Management at the [School of Management](https://www.mgmt.ucl.ac.uk/), [University College London](https://www.ucl.ac.uk/), supervised by [Rouba Ibrahim](https://www.mgmt.ucl.ac.uk/people/roubaibrahim) and [Dongyuan Zhan](https://www.mgmt.ucl.ac.uk/people/dongyuanzhan). 
 
-Here is my [C.V.](https://arturoestrada.github.io/CVArturoEstrada.pdf) 
+Here is my [C.V.](https://arturoestrada.github.io/CVArturoEstradaRodriguez.pdf) 
 
 ## Research Interests
 
