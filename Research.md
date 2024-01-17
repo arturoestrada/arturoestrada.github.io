@@ -4,25 +4,28 @@ permalink: "/Research/"
 layout: page
 ---
 
-## Working Papers & Work in Progress
+## Journal Publications
 
-1. Rodriguez, A. E., Ibrahim, R. and Zhan, D. On Customer (Dis)honesty in Unobservable Queues: The Role of Lying Aversion. [PDF](https://arturoestrada.github.io/JobMarketPaperArturoEstradaRodriguez.pdf) 
-   * Major revision at Management Science.
+1. Rodriguez, A. E., Ibrahim, R. and Zhan, D. (2023). On Customer (Dis)honesty in Unobservable Queues: The Role of Lying Aversion. [PDF](https://arturoestrada.github.io/JobMarketPaperArturoEstradaRodriguez.pdf) 
+   * Forthcoming at Management Science.
    * Selected for MSOM SIG Service Management Track presentation, 2023 McGill University, Montreal (Canada).
    * Second place, 2021 Behavioral Operations Management Best Working paper.
    * Finalist, 2021 Service Science IBM Best Student Paper.
+     
+2. Rodriguez, A. E., Pezzotta, G., Pinto, R., & Romero, D. (2020). A comprehensive description of the Product-Service Systems’ cost estimation process: An integrative review. International Journal of Production Economics, 221, 107481. [PDF](https://arturoestrada.github.io/AdditionalPaper2ArturoEstradaRodriguez.pdf) 
 
-2. Rodriguez, A. E., Ibrahim, R. and  Kremer, M. Communication, Commitment, and Persuasion in Service Operations: Theory and Experiment. Working paper. [PDF](https://arturoestrada.github.io/AdditionalPaper1ArturoEstradaRodriguez.pdf) 
+3. Rodriguez, A. E., Pezzotta, G., Pinto, R., & Romero, D. (2022). A framework for cost estimation in product-service systems: A systems thinking approach. CIRP Journal of Manufacturing Science and Technology, 38, 748-759. [PDF](https://arturoestrada.github.io/AdditionalPaper3ArturoEstradaRodriguez.pdf)
 
-3. Rodriguez, A. E., Ibrahim, R. and Kremer, M. Strategic Human-Algorithm Communication in Service Operations. Working project.
+
+## Working Papers & Work in Progress
+
+1. Rodriguez, A. E., Ibrahim, R. and  Kremer, M. Persuasive Communication in Service Operations. Working paper. [PDF](https://arturoestrada.github.io/AdditionalPaper1ArturoEstradaRodriguez.pdf) 
+
+2. Rodriguez, A. E., Ibrahim, R. and Kremer, M. Strategic Human-Algorithm Communication in Service Operations. Working project.
+
+3. Rodriguez, A. E. and Singh, S.P., Non-Truthful Mechanism Design in Service Operations. Working project.
 
 4. Rodriguez, A. E. Customer Lying Behaviour in Observable Queues: The Role of Reputation and Image Concerns. Working project.
-
-## Journal Publications
-
-1. Rodriguez, A. E., Pezzotta, G., Pinto, R., & Romero, D. (2020). A comprehensive description of the Product-Service Systems’ cost estimation process: An integrative review. International Journal of Production Economics, 221, 107481. [PDF](https://arturoestrada.github.io/AdditionalPaper2ArturoEstradaRodriguez.pdf) 
-
-2. Rodriguez, A. E., Pezzotta, G., Pinto, R., & Romero, D. (2022). A framework for cost estimation in product-service systems: A systems thinking approach. CIRP Journal of Manufacturing Science and Technology, 38, 748-759. [PDF](https://arturoestrada.github.io/AdditionalPaper3ArturoEstradaRodriguez.pdf) 
 
    
 ## Other Publications (Conference papers)
