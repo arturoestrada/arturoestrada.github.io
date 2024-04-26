@@ -19,7 +19,7 @@ layout: page
 
 ## Working Papers & Work in Progress
 
-1. Rodriguez, A. E., Ibrahim, R. and  Kremer, M. Persuasive Communication in Service Operations. Working paper. Available at:(https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672269)
+1. Rodriguez, A. E., Ibrahim, R. and  Kremer, M. Persuasive Communication in Service Operations. Working paper. Available at: (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4672269)
    * Major Revision at Management Science.
 
 3. Rodriguez, A. E., Ibrahim, R. and Kremer, M. Strategic Human-Algorithm Communication in Service Operations. Working project.
