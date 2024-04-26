@@ -7,7 +7,7 @@ layout: page
 ## Journal Publications
 
 1. Rodriguez, A. E., Ibrahim, R. and Zhan, D. (2023). On Customer (Dis)honesty in Unobservable Queues: The Role of Lying Aversion.
-   <! [PDF](https://arturoestrada.github.io/JobMarketPaperArturoEstradaRodriguez.pdf) >
+   [comment]: <> [PDF](https://arturoestrada.github.io/JobMarketPaperArturoEstradaRodriguez.pdf)
    * Forthcoming at Management Science.
    * Selected for MSOM SIG Service Management Track presentation, 2023 McGill University, Montreal (Canada).
    * Second place, 2021 Behavioral Operations Management Best Working paper.
