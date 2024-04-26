@@ -6,7 +6,7 @@ layout: page
 
 ## Journal Publications
 
-1. Rodriguez, A. E., Ibrahim, R. and Zhan, D. (2023). On Customer (Dis-)honesty in Unobservable Queues: The Role of Lying Aversion.
+1. Rodriguez, A. E., Ibrahim, R. and Zhan, D. (2024). On Customer (Dis-)honesty in Unobservable Queues: The Role of Lying Aversion.
    * Forthcoming at Management Science.
    * Selected for MSOM SIG Service Management Track presentation, 2023 McGill University, Montreal (Canada).
    * Second place, 2021 Behavioral Operations Management Best Working paper.
@@ -24,7 +24,7 @@ layout: page
 
 3. Rodriguez, A. E., Ibrahim, R. and Kremer, M. Strategic Human-Algorithm Communication in Service Operations. Working project.
 
-4. Rodriguez, A. E. and Singh, S.P., Non-Truthful Mechanism Design in Service Operations. Working project.
+4. Rodriguez, A. E. and Singh, S.P., Non-Truthful Mechanism Design for Revenue Management in Queueing Systems. Working project.
 
    
 ## Other Publications (Conference papers)
