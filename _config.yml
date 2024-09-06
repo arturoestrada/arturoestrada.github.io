@@ -1,6 +1,6 @@
 title: "Arturo Estrada Rodriguez"
 author: "Arturo Estrada Rodriguez"
-description: "School of Management, University College London (UK)"
+description: "Católica-Lisbon School of Business and Economics"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Research.md", title: "Research"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:arturoestrod@hotmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:aerodriguez@ucp.pt"}
   - {title: Linkedin, icon: linkedin, url: "https://linkedin.com/in/arturo-estrada-rodriguez"}
 
 comments:
